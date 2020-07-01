@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#modify{
+    margin-top: 10%;
+}
+#modify-two{
+    margin-top: 10%;
+}
+#modify-img{
+    margin-bottom: 10%;
+}
+.half-width{
+    margin: 4%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+}
+#name{
+    color: rgb(221, 42, 78);
+}
+.half-width img{
+    width: 550px;
+    margin-top: 0px;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(80deg, rgb(221, 42, 78), tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-area{
+    background-image: url("../images/header-bg.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.biography-area{
+    background-image: url("../images/biography-bg.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.biography-text{
+    font-size: 40px;
+    font-weight: 800;
+}
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+.latest-work-area{
+    background-image: url("../images/latest-work-bg.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section-head{
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 50px
+}
+.work-column img{
+    width: 400px;
+    float: left;
+    margin-left: 33.33px;
+}
+.ending-area{
+    background-image: url("../images/footer-bg.png");
+    height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 5px;
+}
+h5{
+    text-align: center;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-top: 0%;
+}
+#goals{
+    text-align: center;
+    margin-left: 15px;
+}
+.email-btn{
+    background: linear-gradient(80deg,rgb(233, 23, 138),rgb(216, 78, 101));
+    border-radius: 10px;
+    border: 0px;
+    color:aliceblue;
+    padding:20px 150px;
+    margin-left: 450px;
+    text-align: center;
+}
+#btn-text-1{
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+footer p{
+    text-align: center;
+    font-weight: 200;
+}
+.section-head-two{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
